@@ -46,6 +46,10 @@ function Vue_ListeProduit($tableProduit)
         echo " Pas encore d'enregistrement ";
     }
 
+    /**
+     * 2. Ajouter ici le formulaire demandant l'adresse mail pour envoyer le token d'accès au catalogue
+     * (que le catalogue !!)
+     */
     echo "
         <tr>
         
